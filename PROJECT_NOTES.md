@@ -29,13 +29,24 @@ A brief paragraph introducing the L1–L2 interbody fusion cage, key features (*
 
 ## **Regulatory Classification**
 
-### **Current Classification**
-- **FDA Class II Medical Device** under *21 CFR 888.3080*.  
-- Covered by FDA Special Controls: **ASTM F2077**, **ASTM F2267**, **ISO 10993**.
+  ### **Current Classification**
+- **FDA Class II Medical Device** under *21 CFR §888.3080* – Intervertebral body fusion device.
+- Covered by FDA Special Controls: **ASTM F2077**, **ASTM F2267**, and **ISO 10993** biocompatibility standards.
 
 ### **Upgrade to Class III**
-- Adding **osteinductive gel** (*BMP-2/BMP-7, hydrogel carrier, slow-release calcium phosphate, optional stem cell infusion*).  
-- **Rationale:** biologic + device = combination product requiring PMA.
+- Adding **osteinductive gel** would reclassify this as a **combination product** (device + biologic) under *21 CFR §3.2(e)*.
+- Which would require **Premarket Approval (PMA)** as per *21 CFR Part 814*.
+
+---
+
+## **Theoretical Osteoinductive Gel Design**
+
+This section outlines the conceptual design for an **osteinductive gel** intended to enhance fusion rates and bone ingrowth when used with the L1–L2 interbody cage.  
+- **Composition:** Biodegradable hydrogel base infused with BMP-2 analogs, calcium phosphate nanoparticles, and controlled-release growth factors.  
+- **Function:** Promotes osteoblast recruitment, angiogenesis, and mineralized matrix deposition within the lattice pores.  
+- **Integration:** Gel is injected into the oversized lattice cavities pre-surgery or during implantation.  
+- **Regulatory Impact:** Addition of this biologic material changes classification to **FDA Class III**
+
 
 ---
 
