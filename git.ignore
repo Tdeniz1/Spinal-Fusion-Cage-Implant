@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Fusion 360 temp/cache files
+*.log
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Backup design exports
+*.f3d
+*.f3z
+*.step
+*.stp
+
+# VS Code settings (if you use it)
+.vscode/
+
+# OS-specific trash
+Thumbs.db
+ehthumbs.db
+Desktop.ini
