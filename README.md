@@ -2,7 +2,8 @@
 
 ---
 
-<img width="1069" height="738" alt="Screenshot 2025-08-08 at 9 52 36 PM" src="https://github.com/user-attachments/assets/5efbdf3d-3db6-4ee1-86e5-ec3389dd5d47" />
+<img width="976" height="683" alt="Screenshot 2025-08-08 at 9 55 34 PM" src="https://github.com/user-attachments/assets/32fe3c4d-9f71-488f-be3c-355ad6a0fbac" />
+
 
 ---
 
