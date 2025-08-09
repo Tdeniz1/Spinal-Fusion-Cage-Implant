@@ -32,6 +32,13 @@ A **static stress analysis** was performed in Autodesk Fusion 360 to evaluate th
 
 Results showed stress distribution well below the yield strength of Ti-6Al-4V ELI (~830 MPa), with minimal displacement and a factor of safety above 2.0, indicating robust structural performance under typical spinal loading.
 
+## Documentation
+This repository includes additional documentation for deeper technical and theoretical details:
+- **OSTEOINDUCTIVE_GEL.md** – Full formulation, rationale, and simulation strategy for the proposed osteoinductive gel upgrade.
+- **PROJECT_NOTES.md** – Expanded design notes, regulatory considerations, and development history for the L1–L2 interbody fusion cage.
+- **FEA Folder** – Contains static stress analysis setup files, simulation results, and supporting images from Fusion 360 for the preliminary mechanical evaluation.
+
+Refer to these files for in-depth information beyond what is summarized in this README.
 
 ## Files
 - `3D_Models/spinal fusion cage.step` — Neutral CAD file for cross-platform CAD software compatibility. This file
