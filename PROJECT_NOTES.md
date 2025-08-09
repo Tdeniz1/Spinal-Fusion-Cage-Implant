@@ -50,7 +50,7 @@ Dimensions were selected based on morphological data for the **average adult mal
 
 ---
 
-## 🦴 Osteoinductive Gel & Bone Integration Simulation
+## Osteoinductive Gel & Bone Integration Simulation
 
 Portfolio R&D design for an **L1–L2 Ti-6Al-4V ELI interbody cage** with an **oste oinductive gel** to accelerate fusion.
 
