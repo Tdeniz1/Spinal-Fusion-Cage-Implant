@@ -13,7 +13,7 @@ Radiolucent markers are intended to be integrated (not included in the current C
 - **Chamfered & Filleted Edges**: Reduces insertion trauma to surrounding tissue.
 - **Anti-Migration Teeth**: Small, evenly spaced teeth on the top surface prevent implant slippage post-insertion.  
 - **Rounded Corners**: Improves patient safety and reduces the risk of localized stress points during implantation.
-- **Gel Formulation**: A theoretical osteoinductive gel formulation for pore filling is described in docs/osteoinductive_gel.md.”
+- **Gel Formulation**: A theoretical osteoinductive gel formulation for pore filling is described in osteoinductive_gel.md.”
 
 ## Finite Element Analysis (FEA)
 
