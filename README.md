@@ -1,5 +1,11 @@
 # Spinal Fusion Cage Implant
 
+---
+
+<img width="1069" height="738" alt="Screenshot 2025-08-08 at 9 52 36 PM" src="https://github.com/user-attachments/assets/5efbdf3d-3db6-4ee1-86e5-ec3389dd5d47" />
+
+---
+
 ## Overview
 This project contains the 3D CAD design of a **posterior-fixation L1–L2 interbody spinal fusion cage** with a rectangular lattice structure for enhanced bone ingrowth.  
 The design is optimized for additive manufacturing using **Ti-6Al-4V ELI** titanium alloy (choosen for its unique properties), following general FDA Class II design considerations.  
