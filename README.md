@@ -13,7 +13,7 @@ The design is optimized for additive manufacturing using **Ti-6Al-4V ELI** titan
 Radiolucent markers are intended to be integrated (not included in the current CAD model) for postoperative X-ray visibility.
 
 ## Key Features
-- **Dimensions**: Designed to match L1–L2 lumbar anatomy with a 5–6° wedge for restoring sagittal balance.  
+- **Dimensions**: Designed to match L1–L2 lumbar anatomy with a frontal wedge for restoring sagittal balance as well as anti-migration teeth.  
 - **Lattice Structure**: Rectangular lattice promotes osseointegration while maintaining structural strength.  
 - **Pore Scaling Concept**: Pores are intentionally modeled larger in CAD to represent multiple smaller pores in the manufactured part, or to allow for filling with an osteoinductive gel during surgery.  
 - **Posterior Fixation Compatibility**: No screw holes included in the design, as the device is intended to be fixed posteriorly with pedicle screws.  
